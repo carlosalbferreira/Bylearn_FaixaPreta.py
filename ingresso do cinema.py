@@ -39,4 +39,4 @@ if comprando_ingresso(idade):
     print('Ótima escolha vou calcular o valor do seu ingresso')
     valor = (preco_do_filme(escolher))
 
-print(f'O valor do filme será R${preco_do_filme(escolher)}')
+    print(f'O valor do filme será R${preco_do_filme(escolher)}')
