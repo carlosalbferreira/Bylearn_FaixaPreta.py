@@ -1,2 +1,4 @@
-# Bylearn_FaixaPreta.py
-Criado durante o curso Faixa preta: Escola,  ByLearn
+# curso da Udemy
+Criado durante o curso Udemy
+Python do iniciante ao avançado
+
