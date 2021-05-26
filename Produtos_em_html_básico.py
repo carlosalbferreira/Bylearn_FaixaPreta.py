@@ -16,7 +16,7 @@ pagina.write("""
 for c, v in produtos.items():
     pagina.write("<h1>%s</h1>" % c)
     for e in v:
-        pagina.write("<h1>%s</h1>" % e)
+        pagina.write("<h4>%s</h4>" % e)
 pagina.write("""
 </body>
 </html>
